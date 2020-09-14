@@ -1,0 +1,5 @@
+__pycache__
+virtual
+*.pyc
+.DS_Store
+*.swp
